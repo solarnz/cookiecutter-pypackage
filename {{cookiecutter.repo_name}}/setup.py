@@ -20,6 +20,7 @@ requirements = [
 
 test_requirements = [
     # TODO: put package test requirements here
+    'wheel==0.23.0',
 ]
 
 setup(
